@@ -1,0 +1,8 @@
+.nav {
+  background-color: rgb(35, 61, 204) !important;
+  color: 'white';
+}
+input,
+button {
+  margin: 10px;
+}
